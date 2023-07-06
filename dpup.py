@@ -1,0 +1,12 @@
+d={1:"one",2:"two",3:"three"}
+a,b,c=d
+print(a)
+print(b)
+print(c)
+print("<---unpack--->")
+i={1:"one",2:"two",3:"three",4:"four",5:"five"}
+p,*q,r,s=i
+print(p)
+print(q)
+print(r)
+print(s)

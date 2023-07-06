@@ -1,0 +1,5 @@
+d=dict({1:"a",2:"b",3:"c"})
+print(d)
+m=d.update({4:"four"})
+print(d)
+# clear(),copy(),fromkey(d,0),get(2),item(),keys(),pop(3),popitem(),setdefault(4,"four"),update(),values()

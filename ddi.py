@@ -1,0 +1,6 @@
+i=int(input("enter your integer value: "))
+f=float(input("enter your float value: "))
+s=str(input("enter your char/string value: "))
+print("integer value = ",i)
+print("float value = ",f)
+print("char/string value = ",s)
