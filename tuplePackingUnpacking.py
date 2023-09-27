@@ -1,0 +1,15 @@
+print("Tuples unpack")
+t=(1,2,3)
+print(t)
+a,b,c=t
+print(a)
+print(b)
+print(c)
+print("Tuples unpack")
+i=(1,2,3,4,5)
+print(i)
+p,*q,r,s=i
+print(p)
+print(q)
+print(r)
+print(s)
